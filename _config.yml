@@ -145,5 +145,5 @@ theme: reimu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:drda-x/drda-blog.git
+  repo: https://github.com/drda-x/drda-blog.git
   branch: gh-pages
