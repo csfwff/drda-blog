@@ -3,6 +3,7 @@ title: Hexo 初体验
 banner: https://img.8845.top/img2/%E3%80%8A%E4%BA%B2%E7%88%B1%E7%9A%84%E5%BC%97%E5%85%B0%E5%85%8B%E6%96%AF%E3%80%8B024k.jpg
 cover: https://img.8845.top/img2/%E3%80%8A%E4%BA%B2%E7%88%B1%E7%9A%84%E5%BC%97%E5%85%B0%E5%85%8B%E6%96%AF%E3%80%8B024k.jpg
 date: 2026-06-08
+sticky: true
 tags:
   - hexo
   - github
