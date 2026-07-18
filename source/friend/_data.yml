@@ -3,10 +3,10 @@
   desc: 奶茶少糖，喜欢吃辣
   image: https://drda-x.github.io/drda-blog/avatar/avatar.webp
 
-- name: 摸鱼派
-  url: https://fishpi.cn/member/drda
-  desc: 这一个摸鱼聊天室
-  image: https://fishpi.cn/images/faviconH.png
+# - name: 摸鱼派
+#   url: https://fishpi.cn/member/drda
+#   desc: 这一个摸鱼聊天室
+#   image: https://fishpi.cn/images/faviconH.png
 
 - name: 唐墨夏
   url: https://sszsj.com/
@@ -32,4 +32,3 @@
   url: https://www.zqcnc.cn
   desc: keep trying!
   image: https://www.zqcnc.cn/favicon.ico
-
